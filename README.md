@@ -2,7 +2,7 @@
 
 ✨Welcome to my workspace! Would you like a cup of coffee? ☕
 
-My name is Ingrid Almeida, I'm from Brazil 🇧🇷 I'm a curious developer and passionate about creating stuff with technology. I started studying code by myself in November 2020 and I loved it! 💻
+My name is Ingrid Almeida, I'm from Brazil. 🇧🇷 I'm a curious developer and passionate about creating stuff with technology. I started studying code by myself in November 2020 and I loved it! 💻
 
 Always open to learn something new and always ready to face challenges. 
 
