@@ -8,9 +8,9 @@ Always open to learn something new and always ready to face challenges.
 
 I really love to share what I'm learning, so if you have any questions, send me a message!
 
-#### 🧙‍♂️ "All we have to decide is what to do with the time that is given us.” ⏰
+### 🧙‍♂️ "All we have to decide is what to do with the time that is given us.” ⏰
 
--   📍 Living in Rio de Janeiro
+-  📍 Living in Rio de Janeiro
 - 📚 I like reading books
 -  🤘 Heavy Metal is my passion
 
