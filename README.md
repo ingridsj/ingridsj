@@ -17,4 +17,4 @@ I really love to share what I'm learning, so if you have any questions, send me 
 
 Reach me out 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridsjalmeida-48402b141/)](https://www.linkedin.com/in/ingridsjalmeida/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ingridsjalmeida@gmail.com)](mailto:ingridsjalmeida@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ingridsj)](https://www.instagram.com/_ingridsj/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridsjalmeida-48402b141/)](https://www.linkedin.com/in/ingridsjalmeida/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ingridsjalmeida@gmail.com)](mailto:ingridsjalmeida@gmail.com) 
