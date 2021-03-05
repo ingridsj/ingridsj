@@ -22,7 +22,7 @@ Reach me out 👇
 <p align='center'>
 <a href="https://www.linkedin.com/in/ingridsjalmeida" target="blank">
   <img src="https://img.shields.io/badge/-Ingrid%20Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="mailto:ingridsjalmeida@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/-ingridsjalmeida@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
