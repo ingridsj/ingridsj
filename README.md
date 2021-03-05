@@ -10,11 +10,12 @@ I really love to share what I'm learning, so if you have any questions, send me 
 
 ### 🧙‍♂️ "All we have to decide is what to do with the time that is given us.” ⏰
 
--  📍 Living in Rio de Janeiro
+- 📍 Living in Rio de Janeiro
+- 👨‍💻 Learning ReactJS
 - 📚 I like reading books
--  🤘 Heavy Metal is my passion
+- 🎵 Heavy Metal is my passion
 
 
 Reach me out 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridsjalmeida-48402b141/)](https://www.linkedin.com/in/ingridsjalmeida/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ingridsjalmeida@gmail.com)](mailto:ingridsjalmeida@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ingrid%20Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridsjalmeida-48402b141/)](https://www.linkedin.com/in/ingridsjalmeida/) [![Gmail Badge](https://img.shields.io/badge/-ingridsjalmeida@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ingridsjalmeida@gmail.com)](mailto:ingridsjalmeida@gmail.com) 
