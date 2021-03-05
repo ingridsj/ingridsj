@@ -16,6 +16,10 @@ I really love to share what I'm learning, so if you have any questions, send me 
 - 🎵 Heavy Metal is my passion
 
 
-Reach me out 👇
+#### Reach me out 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ingrid%20Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridsjalmeida-48402b141/)](https://www.linkedin.com/in/ingridsjalmeida/) [![Gmail Badge](https://img.shields.io/badge/-ingridsjalmeida@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ingridsjalmeida@gmail.com)](mailto:ingridsjalmeida@gmail.com) 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/5ihf4yMV81xK/giphy.gif">
+</p>
