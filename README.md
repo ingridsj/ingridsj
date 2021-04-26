@@ -12,8 +12,10 @@ I really love to share what I'm learning, so if you have any questions, send me 
 
 - 📍 Living in Rio de Janeiro
 - 👨‍💻 Learning ReactJS
-- 📚 I like reading books
-- 🎵 Heavy Metal is my passion
+- 📚 Bookworm
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridsj&count_private=true&show_icons=true&theme=radical) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridsj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center"> 
 Reach me out 👇
@@ -26,8 +28,4 @@ Reach me out 👇
 <a href="mailto:ingridsjalmeida@gmail.com">
   <img src="https://img.shields.io/badge/-ingridsjalmeida@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/5ihf4yMV81xK/giphy.gif">
 </p>
