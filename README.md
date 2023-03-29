@@ -11,7 +11,7 @@ I really love to share what I'm learning, so if you have any questions, send me 
 <h3> 🧙‍♂️ "All we have to decide is what to do with the time that is given us.” ⏰</h3>
 
 - 📍 Living in Rio de Janeiro
-- 👨‍💻 Learning ReactJS
+- 👨‍💻 Full Stack Developer
 - 📚 Bookworm
 
 <a href="https://github.com/ingridsj">
