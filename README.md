@@ -14,11 +14,6 @@ I really love to share what I'm learning, so if you have any questions, send me 
 - 👨‍💻 Full Stack Developer
 - 📚 Bookworm
 
-<a href="https://github.com/ingridsj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridsj&count_private=true&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridsj&theme=radical&layout=compact" />
-</a>
-
 <h3 align="center"> 
 Reach me out 👇
 </h3>
